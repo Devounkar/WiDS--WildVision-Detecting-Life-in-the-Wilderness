@@ -14,6 +14,7 @@ Load a simple dataset (e.g., Iris or Titanic) and explore it
 Plot a bar chart or scatter plot
 End-of-Week Goal:
 Comfortable writing Python scripts and handling tabular data.
+
 Week 2 – Introduction to Images and OpenCV
 Goal: Learn how computers represent and process images.
 Learning Topics:
@@ -27,6 +28,7 @@ Resize an image to 800×600
 Draw an 8×8 grid over the image
 End-of-Week Goal:
 Understand how to manipulate and visualize images in Python.
+
 Week 3 – Feature Extraction & Data Preparation
 Goal: Convert image regions into numerical data for ML.
 Learning Topics:
@@ -42,6 +44,7 @@ Store features for all grid cells into a CSV file
 Visualize how different cells vary in feature values
 End-of-Week Goal:
 Create a feature dataset ready for training machine learning models.
+
 Week 4 – Machine Learning Basics
 Goal: Build and train models to identify wildlife regions.
 Learning Topics:
@@ -55,6 +58,7 @@ Test it on unseen data and check performance metrics
 Save the trained model using pickle
 End-of-Week Goal:
 Have a trained ML model capable of classifying wildlife-containing regions.
+
 Week 5 – Integration & Output Generation
 Goal: Apply your model on new images and generate final outputs.
 Learning Topics:
